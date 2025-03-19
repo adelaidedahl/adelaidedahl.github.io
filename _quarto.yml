@@ -4,17 +4,24 @@ project:
 
 website:
   title: "Adelaide Dahl"
+  favicon: /media/nautilus.png
   navbar:
-    left:
+    tite: false
+    logo: /media/nautilus.png
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - pathfinding.qmd
+  page-footer:
+    background: light
+    left: Copyright 2025, Adelaide Dahl
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/adelaidedahl/adelaidedahl.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: styles.scss
+    mainfont: Montserrat
     toc: true
     page-layout: full 
 

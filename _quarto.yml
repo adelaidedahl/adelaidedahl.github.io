@@ -9,10 +9,12 @@ website:
     tite: false
     logo: /media/nautilus.png
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
       - pathfinding.qmd
+      - text: CV
+        href: media/2025_Academic.pdf
+      - about.qmd
   page-footer:
     background: light
     left: Copyright 2025, Adelaide Dahl

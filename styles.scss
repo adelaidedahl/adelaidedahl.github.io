@@ -36,8 +36,21 @@ $link-color: $dark-orange; // hyperlinks
   text-align: center;
 }
 
+.orange-text {
+  color: $dark-orange;
+}
+
 p {
   font-weight: 400;
+}
+
+.email-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: $dark-orange;
+  color: $cream;
+  text-decoration: none;
+  border-radius: 5px;
 }
 
 h1, h2, h3, h4, h5, h6 {

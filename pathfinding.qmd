@@ -1,3 +1,52 @@
 ---
-title: "Educational Resources"
+title: "About"
 ---
+<h2 class="orange-text"> Study </h2>
+
+I am a current PhD student at the University of California, Santa Barbara studying marine biology and coral reef ecology. Before coming to Santa Barbara, I received a Master's in Biology studying the coral reefs of Moorea, French Polynesia and St. John in the US Virgin Islands.
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics(c("media/Moorea_boat.JPG", "media/Poc_head.JPG"))
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+Some images from fieldwork in Moorea, French Polynesia
+:::
+:::
+
+Before studying coral reefs, I completed a Bachelors of Science degree in Biology at Brown University developing skills in critical thinking, research and visual art. These skills further evolved in my undergraduate studies through courses at the Rhode Island School of Design. With passions for visual art and environmental science, I combine these interests in my work across subjects and spent time at Brown working with the Marine Biology lab on campus, studied abroad for six months in New Zealand, and served as co-captain for the Brown Women’s Rowing team.
+
+My diversity of interests allows me to bring a unique perspective to each platform and helps me always return to the importance of pursuing your passions.
+
+<h3 class> Learn More </h3>
+You can find a copy of my CV above for more details on my professional work and experience!
+
+<h2 class="orange-text"> Teaching Philosophy </h2>
+
+During the COVID-19 pandemic, I realized that I missed learning. Not just sitting in class and engaging with material but really *absorbing* and *engaging* with the topics and content I was presented with in my courses. In the age of zoom univeristy, I sought out opportunities to learn outside of the classroom and discovered the topics I was most excited about were also those for which I felt the most passionate - ocean science and art.
+
+Since then, I have worked towards helping students K-12 find their passion for learning. I started by leaning on my strengths in science and art to develop curricula and educational pathways, eventually engaging with students from around the world to help them identify their strengths and bolster their personal journey in education.
+
+<h3 class> Contact Me </h3>
+
+<p> Feel free to reach out if you are interested in working with me or have any questions! </p>
+
+:::{.column-margin}
+```{r}
+#| echo: false
+knitr::include_graphics("media/squid.jpg")
+```
+::: {.center-text .extra-small-text .dark-gray-text .topbr}
+One of my pastel drawings
+:::
+:::
+
+<a href="mailto:adelaidedahl@ucsb.edu?subject=Teaching Inquiry" class="email-button">Click to Email</a>
+
+<h2 class="orange-text"> Art </h2>
+
+I am an avid illustrator and artist. I want to use art as a means for science communication, as inspired by incredible science illustrators and artists that have come before me. A link to artist portfolio can be found here - please reach out for any commissions or prints! 
+
+
+

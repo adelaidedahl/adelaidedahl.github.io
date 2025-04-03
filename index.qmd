@@ -9,7 +9,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/adelaide-dahl
+      href: https://www.linkedin.com/in/adelaide-dahl/
     - icon: envelope
       text: Email
       href: mailto:adelaidedahl@ucsb.edu
